@@ -1,0 +1,58 @@
+References
+* tmvar 2.0
+    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5860583/
+* Identification of misclassified ClinVar variants using disease population prevalence
+    * https://www.biorxiv.org/content/biorxiv/early/2016/09/15/075416.full.pdf
+* Andy McMurry’s arxiv.org submission
+    * https://arxiv.org/abs/1602.02911
+    * Searching PubMed for articles relevant to clinical interpretation of rare human genetic variants
+    * cited here: https://dblp.org/db/journals/corr/corr1602
+* Julie McMurry et al: 
+    * 10.1371/journal.pbio.2001414
+    * Identifiers for the 21st century: How to design, provision, and reuse persistent identifiers to maximize utility and impact of life science data
+* tmvar [1.0]
+* LitVar
+    * Demo: https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/#!?query=NM_001126115.1:c.318T%3EG
+    * https://www.ncbi.nlm.nih.gov/pubmed/29762787
+    * Nucleic Acids Res. 2018 Jul 2;46(W1):W530-W536. doi: 10.1093/nar/gky355.
+LitVar: a semantic search engine for linking genomic variant data in PubMed and PMC.
+
+* 
+J Mol Diagn. 2007 Feb; 9(1): 1–6.
+doi: 10.2353/jmoldx.2007.060081
+PMCID: PMC1867422
+PMID: 17251329
+Standard Mutation Nomenclature in Molecular Diagnostics
+
+* HGMD
+    * https://www.qiagenbioinformatics.com/products/human-gene-mutation-database/
+    * http://www.hgmd.cf.ac.uk/ac/hahaha.php
+        * Stats on public versus private releases.
+* SPDI
+    * https://www.biorxiv.org/content/10.1101/537449v3.full
+    * SPDI: Data Model for Variants and Applications at NCBI
+    *  View ORCID ProfileJ. Bradley Holmes, Eric Moyer,  View ORCID ProfileLon Phan, Donna Maglott, Brandi L. Kattman
+    * doi: https://doi.org/10.1101/537449
+
+* NCBI Variation Services
+    * https://api.ncbi.nlm.nih.gov/variation/v0/#/
+    * Recommends downloading dbSNP directly for processing more than 100K variants.
+* ClinGen 
+    * https://clinicalgenome.org/
+* ClinVar changed the data layout on 11/30/2016 
+    * https://github.com/intermine/intermine/issues/1470
+* SETH — SNP extraction tool for Human Variations
+    * https://rockt.github.io/SETH/
+* ClinVar: Representation of Clinical Significance and efforts to Standardize:
+    * https://www.ncbi.nlm.nih.gov/clinvar/docs/clinsig/
+* Curation of of Genetic Variants  
+    * Difficulties and Possible Solutions
+    * https://doi.org/10.1016/j.gpb.2012.06.006
+    * Section on Automated Curation:
+        * https://www.sciencedirect.com/science/article/pii/S1672022912000927#s0055
+        * "To curate variants, automated curation tools use expression patterns such as annotation of variants, contextual features, distance-metrics, graph-metrics, and rule-based systems such as pattern matching. For example, two common tools MEMA and MuteXt have been developed that can use a dictionary search for protein and gene names and differentiate protein names based on the measurement of word proximity distance for extraction of variants: a variant in a paper is closer to the names of its related genes/proteins rather than names of other proteins/genes that are also present in the paper [16], [22]"
+* Crossref
+    * https://www.crossref.org/
+    * https://github.com/sckott/habanero
+* 
+
