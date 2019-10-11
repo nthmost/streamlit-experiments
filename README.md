@@ -1,10 +1,10 @@
 # streamlit-experiments
 Hacking with Streamlit on whatever I find interesting.
 
+-------------------------------------------------------------------------------
 ## Gotchas
 
-1) Virtualenv Location
--------------------
+### Virtualenv Location
 
 You can't run this with a virtualenv set within the top level of your repo.
 
